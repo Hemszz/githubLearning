@@ -24,8 +24,13 @@ API Endpoints We Will Be Working With:
 
 https://api.github.com/users
 
-https://api.github.com/search/users?q=brad
+https://api.github.com/search/users?q=hemszz
 
-https://api.github.com/users/bradtraversy
+https://api.github.com/users/hemszz
 
-https://api.github.com/users/bradtraversy/repos
+[comment]: <> (https://api.github.com/users/bradtraversy/repos)
+
+https://api.github.com/users/hemszz/repos
+
+Markdown approach docs
+https://daringfireball.net/projects/markdown/syntax#link
